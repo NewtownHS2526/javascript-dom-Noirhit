@@ -1,4 +1,4 @@
-let firstName = "John";
-let lastName = "Doe";
+let firstName = "Dylan";
+let lastName = "Bhutia";
 let fullName = firstName + " " + lastName;
 console.log(fullName);

@@ -3,3 +3,10 @@
 //          let lastName = "Doe";
 //          let fullName = firstName + " " + lastName;
 
+
+
+let firstName = "john";
+let lastName = "Doe";
+
+let fullName = `full name is ${firstName} ${lastName}`;
+

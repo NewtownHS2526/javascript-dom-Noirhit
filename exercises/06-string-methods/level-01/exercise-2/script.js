@@ -2,3 +2,8 @@
 // Example: let text = "HELLO";
 //          let lower = text.toLowerCase();
 
+let text = 'HELLO'
+let lower = text.toLowerCase(text)
+
+console.log(lower)
+

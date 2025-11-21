@@ -2,3 +2,7 @@
 // Example: let text = "hello";
 //          let upper = text.toUpperCase();
 
+ let text = 'hello';
+ let upper =  text.toUpperCase(text);
+
+ console.log(upper)
