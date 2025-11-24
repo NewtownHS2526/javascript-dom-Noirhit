@@ -5,3 +5,11 @@
 //     console.log("Adult");
 // }
 
+let name = "Noirhit"
+
+if(name === "Noirhit"){
+    console.log(name)
+}
+else{
+    console.log("error")
+}

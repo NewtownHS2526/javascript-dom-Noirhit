@@ -8,3 +8,14 @@
 //     console.log("Senior");
 // }
 
+age = 50
+
+if(age >= 18){
+    return "Adult";
+}
+else if (age >= 65){
+    return "Senior Citizen";
+}
+else{
+    return "Minor";
+}

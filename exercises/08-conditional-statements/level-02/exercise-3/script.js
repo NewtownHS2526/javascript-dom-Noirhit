@@ -6,3 +6,11 @@
 //     }
 // }
 
+age = 70
+
+if(age >= 18){
+    if (age >= 65){
+        console.log("senior citizen")
+    }
+}
+

@@ -4,3 +4,8 @@
 //     console.log("Weekend!");
 // }
 
+let day = "saturday";
+
+if(day === "saturday" || day === "sunday"){
+    console.log("Weekend!")
+}
